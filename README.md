@@ -1,6 +1,6 @@
 A list of topics I speak about on the different conferences, including posts, videos, slides etc. I track resources on my own, so I might missed smth.
 
-Ping [me](https//twitter.com/vixentael) if you are interested to talk to me.
+Ping [me](https://twitter.com/vixentael) if you are interested to talk to me.
 
 Enjoy! 🔒
 
@@ -50,7 +50,7 @@ Barcelona, 22-23 June 2017
 \#security \#keys \#mobile \#trust
 
 [slides](https://speakerdeck.com/vixentael/keys-from-the-castle-ancient-art-of-managing-keys-and-trust) | [AppBuilders video](https://www.youtube.com/watch?v=5U3FfQUmcV4&feature=youtu.be) | [CraftConf video](http://www.ustream.tv/recorded/102860531) |
----- | --- | ---- | --- |
+---- | --- | ---- |
 
 
 We will talk about building trust. Trust is built around various trust tokens: keys, passwords, secrets, biometric properties, things you have and things you know. We will talk about what should you trust, how to establish and verify trust, how to share trustedly among different users. We will discuss technical aspects: key exchange, key trust, key derivation, channel trust, multi-factor authentications. I will try to make the audience understand how this huge universe of tools and algorithms serves just one purpose: letting the right guys in, keeping the wrong guys outside our magical castle. And fairies there should be!
@@ -129,7 +129,7 @@ Crans-Montana, Switzerland, 10-11 Nov 2016
 \#security \#keys \#mobile \#trust
 
 [slides](https://speakerdeck.com/vixentael/extended-version-building-user-centric-security-model-in-ios-applications) | [EatDog video, 1h (ru)](https://www.youtube.com/watch?v=h4egvZ4JuvI) | [MobiConf video, 40m (eng)](https://www.youtube.com/watch?v=QG-yw5iG564) |
----- | --- | ---- | --- |
+---- | --- | ---- |
 
 We will talk about building security, that does not fail when application keys are exposed; when servers are hacked; security that lasts as long as unique user's crypto keys (or passwords) are safe. Putting secrets known by the user to be a source of trust is the ultimate way for an app to become "thin" in relation to the security model, thus lowering the risks and developer pain. We will learn about thin transparent security layers system and its applicability in client-server systems.
 
@@ -161,7 +161,7 @@ Kharkov, Ukraine, 18 August 2016
 \#teammanagement \#development
 
 [slides](https://speakerdeck.com/vixentael/multiskilled-mobile-dev-teams-unlock-your-hidden-powers) | [UMT video (ru)](https://www.youtube.com/watch?v=1aNeHW2VQD0) |
----- | --- | ---- |
+---- | --- |
 
 Everyone is talking about developers' specialization. 'Know you niche'. We have separate conferences for every dev area now: mobile, cloud, big data, iOT. In order to build a modern multiplatform mobile app you need to work with separate iOS and Android dev teams, separate backend dev team, designers and managers. Doesn't look too much?
  
@@ -182,7 +182,7 @@ Dnipro, Ukraine, 18-19 July 2016
 \#security \#trust \#mobile \#ZKP \#KDF
 
 [slides](https://speakerdeck.com/vixentael/upgrading-approaches-to-the-secure-mobile-architectures) | [UMT video (ru)](https://www.youtube.com/watch?v=1aNeHW2VQD0) |
----- | --- | ---- |
+---- | --- |
 
 Mobile platforms present both new threats and new opportunities for system security. This presentation deals with modern approaches: how to protect data, which trust relationships emerge with mobile phone, how they affect traditional security layouts. How mobile phones dictate important client-server relationships.
 
@@ -207,7 +207,7 @@ Kyiv, Ukraine, June 2016
 \#teammanagement \#development \#design \#mobile
 
 [slides](https://speakerdeck.com/vixentael/working-with-designs-make-love-not-war) | [video (ru)](https://www.youtube.com/watch?v=Q-Ah0GNxfbM) |
----- | --- | ---- |
+---- | --- |
 
 As the developer, I don’t want to be frustrated when I need to convert designs into assets.
 
@@ -234,7 +234,7 @@ ______________________________________________
 \#security \#trust \#mobile \#architecture
 
 [slides](https://speakerdeck.com/vixentael/avoiding-damage-shame-and-regrets-data-protection-for-mobile-client-server-architectures) | [Do iOS video (eng)](https://www.youtube.com/watch?v=zKvt0fv_mkc) |
----- | --- | ---- |
+---- | --- |
 
 - communication with server: security, reliability, ease of use, choose two 
 - applied cryptography: should you manually configure CommonCrypto or ...? 
@@ -263,7 +263,7 @@ Amsterdam, Netherlands, November 2015
 \#security \#mobile \#architecture
 
 [slides](https://speakerdeck.com/vixentael/data-transfer-security-for-mobile-apps-what-the-fish-doesnt-notice-in-the-ocean) | no video |
----- | --- | ---- |
+---- | --- |
 
 * Wise fish knows there ain’t enough talks about security 
 * Communication with server: security, reliability, ease of use, choose two 
@@ -283,7 +283,7 @@ Lviv, Ukraine, October 2015
 \#mobile \#development \#nlp
 
 [slides](https://speakerdeck.com/vixentael/building-profanity-filters-on-mobile-clbuttic-sh-t) | no video |
----- | --- | ---- |
+---- | --- |
 
 
 Short story about building app with profanity text filter inside.
@@ -306,7 +306,7 @@ Kyiv, Ukraine, September 2015
 \#security \#mobile \#usersdata \#commoncrypto
 
 [slides](https://speakerdeck.com/vixentael/users-data-security-in-ios-applications) | [video (ru)](https://www.youtube.com/watch?v=d5Fos3e6eo8) |
----- | --- | ---- |
+---- | --- |
 
 
 * Why should we think about security at all.
@@ -330,7 +330,7 @@ Odessa, Ukraine, July 2015
 \#backend \#mobile \#parse \#development
 
 [slides](https://speakerdeck.com/vixentael/stanfy-madcode-meetup-number-5-backend-without-code-parse-dot-com-myth-and-reality) | [video (ru)](https://www.youtube.com/watch?v=qcbPvEdUCWY) |
----- | --- | ---- |
+---- | --- |
 
 * How many developers are needed to write client-server mobile app? Fun and easy: set up a new app with Parse.com. 
 * Feeling confident enough to use own server? Check migration issues. 
@@ -349,7 +349,7 @@ Kyiv, Ukraine, April 2015
 \#teammanagement \#development \#mobile
 
 [slides](https://speakerdeck.com/vixentael/health-psycho-atmosphere-in-dev-life) | no video |
----- | --- | ---- |
+---- | --- |
 
 Nice and useful things to do if you feel too lazy to write code today.
 
@@ -368,7 +368,7 @@ ______________________________________________
 \#teammanagement \#development \#backend \#mobile
 
 [slides](https://speakerdeck.com/vixentael/stanfy-madcode-meetup-number-1-making-friends-with-backend-developers) | no video |
----- | --- | ---- |
+---- | --- |
 
 This MadCode Webinar was dedicated to the effective interactions between mobile and backend developers to find the ways of productive communications with the latter not spending their time on finding who made errors, but rather building great products together.
 
