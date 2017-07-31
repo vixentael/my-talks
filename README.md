@@ -188,7 +188,7 @@ Dnipro, Ukraine, 18-19 July 2016
 
 \#security \#trust \#mobile \#ZKP \#KDF
 
-[slides](https://speakerdeck.com/vixentael/upgrading-approaches-to-the-secure-mobile-architectures) | no video :( |
+[slides](https://speakerdeck.com/vixentael/upgrading-approaches-to-the-secure-mobile-architectures) | [CocoaHeads Video (ru)](https://www.youtube.com/watch?v=elP6ABURwlA) |
 ---- | --- |
 
 
