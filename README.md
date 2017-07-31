@@ -37,6 +37,8 @@ ______________________________________________
 ---- | --- |
 
 
+<img src="pics/build_solve_preview.jpg" alt="Build it solve it" style="height: 466;"/>
+
 This is a story from a designer [@anatinge](https://twitter.com/anatinge) and a developer who worked together and built a product for people who really need it. It's all about working in a tight collaboration, conducting user research and user interviews, sharing tip & tricks about team working. 
 
 **Presented at:**
@@ -52,6 +54,7 @@ Barcelona, 22-23 June 2017
 [slides](https://speakerdeck.com/vixentael/keys-from-the-castle-ancient-art-of-managing-keys-and-trust) | [AppBuilders video](https://www.youtube.com/watch?v=5U3FfQUmcV4&feature=youtu.be) | [CraftConf video](http://www.ustream.tv/recorded/102860531) |
 ---- | --- | ---- |
 
+<img src="pics/keys_preview.jpg" alt="Keys" style="height: 466;"/>
 
 We will talk about building trust. Trust is built around various trust tokens: keys, passwords, secrets, biometric properties, things you have and things you know. We will talk about what should you trust, how to establish and verify trust, how to share trustedly among different users. We will discuss technical aspects: key exchange, key trust, key derivation, channel trust, multi-factor authentications. I will try to make the audience understand how this huge universe of tools and algorithms serves just one purpose: letting the right guys in, keeping the wrong guys outside our magical castle. And fairies there should be!
 
@@ -131,6 +134,8 @@ Crans-Montana, Switzerland, 10-11 Nov 2016
 [slides](https://speakerdeck.com/vixentael/extended-version-building-user-centric-security-model-in-ios-applications) | [EatDog video, 1h (ru)](https://www.youtube.com/watch?v=h4egvZ4JuvI) | [MobiConf video, 40m (eng)](https://www.youtube.com/watch?v=QG-yw5iG564) |
 ---- | --- | ---- |
 
+<img src="pics/uct_preview.jpg" alt="User centric trust" style="height: 466;"/>
+
 We will talk about building security, that does not fail when application keys are exposed; when servers are hacked; security that lasts as long as unique user's crypto keys (or passwords) are safe. Putting secrets known by the user to be a source of trust is the ultimate way for an app to become "thin" in relation to the security model, thus lowering the risks and developer pain. We will learn about thin transparent security layers system and its applicability in client-server systems.
 
 
@@ -163,6 +168,8 @@ Kharkov, Ukraine, 18 August 2016
 [slides](https://speakerdeck.com/vixentael/multiskilled-mobile-dev-teams-unlock-your-hidden-powers) | [UMT video (ru)](https://www.youtube.com/watch?v=1aNeHW2VQD0) |
 ---- | --- |
 
+<img src="pics/fedya_preview.jpg" alt="Fedya" style="height: 466;"/>
+
 Everyone is talking about developers' specialization. 'Know you niche'. We have separate conferences for every dev area now: mobile, cloud, big data, iOT. In order to build a modern multiplatform mobile app you need to work with separate iOS and Android dev teams, separate backend dev team, designers and managers. Doesn't look too much?
  
 I'll talk about another way of organization: multiskilled dev team, experience and benefits.
@@ -183,6 +190,9 @@ Dnipro, Ukraine, 18-19 July 2016
 
 [slides](https://speakerdeck.com/vixentael/upgrading-approaches-to-the-secure-mobile-architectures) | [UMT video (ru)](https://www.youtube.com/watch?v=1aNeHW2VQD0) |
 ---- | --- |
+
+
+<img src="pics/upgrading_preview.jpg" alt="Upgrading approaches" style="height: 466;"/>
 
 Mobile platforms present both new threats and new opportunities for system security. This presentation deals with modern approaches: how to protect data, which trust relationships emerge with mobile phone, how they affect traditional security layouts. How mobile phones dictate important client-server relationships.
 
@@ -235,6 +245,8 @@ ______________________________________________
 
 [slides](https://speakerdeck.com/vixentael/avoiding-damage-shame-and-regrets-data-protection-for-mobile-client-server-architectures) | [Do iOS video (eng)](https://www.youtube.com/watch?v=zKvt0fv_mkc) |
 ---- | --- |
+
+<img src="pics/dodo_preview.jpg" alt="Dodo birds" style="height: 466;"/>
 
 - communication with server: security, reliability, ease of use, choose two 
 - applied cryptography: should you manually configure CommonCrypto or ...? 
