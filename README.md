@@ -8,25 +8,67 @@ Enjoy! 🔒
 
 # Coming soon:
 
-## Zero Knowledge Architectures for iOS Applications 👌
+## Don’t waste time on learning cryptography: better use it properly
 
-\#security \#mobile \#zkp
+\#security \#crypto
 
 wait for slides | wait for video|
 ---- | --- |
+
+
+Crypto in our lives: why you shouldn’t spend time learning all the details of the crypto-algorithms. Typical mistakes you make using crypto in your products. How to avoid late night commits, but to code 'fast and boring' instead.
+
+- [OWASP Kyiv Meetup Winter 17](https://www.facebook.com/events/134239973868217/)</br>
+Kyiv, Ukraine, 2 December 2017 
+
+
+______________________________________________
+
+# 2017
+
+## Blockchain solutions: the balance of safety and efficiency, or just a trend?
+
+\#security \#blockchain
+
+[slides](https://speakerdeck.com/vixentael/blockchain-solutions-the-balance-of-safety-and-efficiency-or-just-a-trend) | wait for video|
+---- | --- |
+
+
+<img src="pics/blockchain.jpg" alt="Build it solve it" style="height: 466;"/>
+
+The security engineer's job is to choose the appropriate solutions for the problems and to apply them. Discussing blockchain regarding cryptography is rather boring: it is simple, and even some assumptions in high-level protocols do not cause protests.
+
+I will talk about the other side - where blockchain looks like an optimal strategy, where it causes questions. We will walk through the risk&threats models, trust, and guarantees, to the experience of using blockchain in the real project (and what happened next).
+
+
+- [UA.SC 17](https://www.facebook.com/events/119916742082061/)</br>
+Kyiv, Ukraine, 18 October 2017 
+
+
+## Zero Knowledge Architectures for iOS Applications 👌
+
+\#security \#mobile \#zkp \#zka
+
+[slides](https://speakerdeck.com/vixentael/zero-knowledge-architectures-for-mobile-applications) | wait for video|
+---- | --- |
+
+
+<img src="pics/zka.jpg" alt="Build it solve it" style="height: 466;"/>
 
 With intensifying threat access, snooping governments and insecure-internet-of-everything, the importance of zero-knowledge application architectures and end-to-end trust, for things more complicated than simple messaging, becomes more and more obvious for the app developers.
 
 We will talk about real-world problems that ZKA fights against, learn typical cryptographic designs and progress in different spheres of ZKA. We will find out how to make data sharing, user collaboration on data in the cloud with your app provably secure.
 
 
+- [DevFest Baltics 17](https://devfest.gdg.lv/)</br>
+Riga, Latvia, 17 November 2017 
+
+- [SE Conf 17](https://se2017.indevlab.com/)</br>
+Kyiv, Ukraine, 27-29 October 2017 
+
 - [MobiConf 17](https://2017.mobiconf.org/)</br>
 Krakow, Poland, 5-6 October 2017 
 
-
-______________________________________________
-
-# 2017
 
 ## Build it, not just solve it! 💊
 
