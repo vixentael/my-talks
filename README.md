@@ -1,30 +1,40 @@
-A list of topics I speak about on the different conferences, including posts, videos, slides etc. I track resources on my own, so I might missed smth.
+A list of topics I speak about on the different conferences, including posts, videos, slides etc. I track resources on my own, so maybe I'm missing smth.
 
-Ping [me](https://twitter.com/vixentael) if you are interested to talk to me.
+Find me in twitter [@vixentael](https://twitter.com/vixentael) or drop an [email](mailto:vixentael@gmail.com) if you are interested to talk to me.
 
 Enjoy! 🔒
 
 ---------------------
 
-# Coming soon:
+# Coming soon
+
+2018 schedule is still WIP :)
+
+---------------------
+
+# 2017
 
 ## Don’t waste time on learning cryptography: better use it properly
 
 \#security \#crypto
 
-wait for slides | wait for video|
+[slides](https://speakerdeck.com/vixentael/dont-waste-time-on-learning-cryptography-better-use-it-properly) | [video (ru)](https://www.youtube.com/watch?v=SfuN-r3FpdY&feature=youtu.be)|
 ---- | --- |
 
 
+<img src="pics/crypto_owasp_preview.jpg" alt="Don't waste time on learning crypto" style="height: 466;"/>
+
 Crypto in our lives: why you shouldn’t spend time learning all the details of the crypto-algorithms. Typical mistakes you make using crypto in your products. How to avoid late night commits, but to code 'fast and boring' instead.
+
+1. The typical engineering workflow "we should protect the data, what shall we do", and possible mistakes. 
+2. What is "boring crypto", what do we want from using crypto-products. 
+3. Possible solutions: HSM / TPM / software crypto. 
+4. How to select appropriate software crypto: libs, systems, containers. 
+5. We want crypto to be similar to the Edison lamp: controllable and boring system.
 
 - [OWASP Kyiv Meetup Winter 17](https://www.facebook.com/events/134239973868217/)</br>
 Kyiv, Ukraine, 2 December 2017 
 
-
-______________________________________________
-
-# 2017
 
 ## Blockchain solutions: the balance of safety and efficiency, or just a trend?
 
@@ -49,7 +59,9 @@ Kyiv, Ukraine, 18 October 2017
 
 \#security \#mobile \#zkp \#zka
 
-[slides](https://speakerdeck.com/vixentael/zero-knowledge-architectures-for-mobile-applications) | wait for video|
+<!--- [Mobiconf video (en)](https://www.youtube.com/watch?v=79iqPsPc6ZE&index=17&list=PLr5cF6ekyIDgWee0wtwMKSGcoMvt5fkn_) -->
+
+[slides](https://speakerdeck.com/vixentael/zero-knowledge-architectures-for-mobile-applications) | wait for video |
 ---- | --- |
 
 
