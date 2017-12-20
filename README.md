@@ -55,13 +55,11 @@ I will talk about the other side - where blockchain looks like an optimal strate
 Kyiv, Ukraine, 18 October 2017 
 
 
-## Zero Knowledge Architectures for iOS Applications 👌
+## Zero Knowledge Architectures for mobile Applications 👌
 
 \#security \#mobile \#zkp \#zka
 
-<!--- [Mobiconf video (en)](https://www.youtube.com/watch?v=79iqPsPc6ZE&index=17&list=PLr5cF6ekyIDgWee0wtwMKSGcoMvt5fkn_) -->
-
-[slides](https://speakerdeck.com/vixentael/zero-knowledge-architectures-for-mobile-applications) | wait for video |
+[slides](https://speakerdeck.com/vixentael/zero-knowledge-architectures-for-mobile-applications) | [Mobiconf video (en)](https://www.youtube.com/watch?v=79iqPsPc6ZE&index=17&list=PLr5cF6ekyIDgWee0wtwMKSGcoMvt5fkn_) |
 ---- | --- |
 
 
