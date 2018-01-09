@@ -6,9 +6,23 @@ Enjoy! 🔒
 
 ---------------------
 
-# Coming soon
+# Coming Soon
 
-2018 schedule is still WIP :)
+## Encryption Without Magic, Risk Management Without Pain
+
+\#security \#crypto
+
+soon | soon | 
+---- | ---- |
+
+
+In-depth technical inquiry about cryptography in a wider context: how it helps to narrow more significant risks to controlled attack surfaces, enables managing the risk efficiently and elegantly, how tools and algorithms sit in a broader context of managing infrastructure-wide risks associated with handling sensitive data.
+
+Apart from discussing general technical approaches, we will focus on what do we need to do after we’ve implemented some kind of encryption in our system: monitoring, intrusion detection, key management, key and code trust.
+
+- [QCon London 18](https://qconlondon.com/london2018/presentation/encryption-without-magic-risk-mngmnt-without-pain)</br>
+London, UK, 5-7 March 2018
+
 
 ---------------------
 
