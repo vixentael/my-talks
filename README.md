@@ -1,6 +1,12 @@
 A list of topics I speak about on the different conferences, including posts, videos, slides etc. I track resources on my own, so maybe I'm missing smth.
 
-Find me in twitter [@vixentael](https://twitter.com/vixentael) or drop an [email](mailto:vixentael@gmail.com) if you are interested to talk to me.
+---------------------
+
+I'm working at [@cossacklabs](http://twitter.com/cossacklabs) on security products that provide strong, usable cryptography for busy people. Many things are open source, i.e. [Themis](https://github.com/cossacklabs/themis) — the crypto library for storage and messaging in mobile, desktop, and web apps, or [Acra](https://github.com/cossacklabs/acra) — database proxy with intrusion detection. 
+
+I can assist you in protecting users data in your infrastructure, just drop me an [email](mailto:anastasi@cossacklabs.com).
+
+I share a lot about my engineering life on twitter as [@vixentael](https://twitter.com/vixentael).
 
 Enjoy! 🔒
 
@@ -10,7 +16,7 @@ Enjoy! 🔒
 
 ## Encryption Without Magic, Risk Management Without Pain
 
-\#security \#crypto
+\#security \#crypto \#databases \#notmobile
 
 soon | soon | 
 ---- | ---- |
@@ -20,9 +26,18 @@ In-depth technical inquiry about cryptography in a wider context: how it helps t
 
 Apart from discussing general technical approaches, we will focus on what do we need to do after we’ve implemented some kind of encryption in our system: monitoring, intrusion detection, key management, key and code trust.
 
-- [QCon London 18](https://qconlondon.com/london2018/presentation/encryption-without-magic-risk-mngmnt-without-pain)</br>
+- [QCon London 18](https://qconlondon.com/london2018/presentation/encryption-without-magic-risk-mngmnt-without-pain)<br/>
 London, UK, 5-7 March 2018
 
+
+## 10 Things you Need to Know before Implementing Cryptography
+
+\#mobile \#security \#crypto
+
+Before we get really deep into protocols vulnerabilities: things you should remember designing your app flow from security point of view.
+
+- [UIKonf 18](http://www.uikonf.com/)<br/>
+Berlin, Germany, 13-16 May 2018
 
 ---------------------
 
