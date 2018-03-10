@@ -6,29 +6,13 @@ I'm working at [@cossacklabs](http://twitter.com/cossacklabs) on security produc
 
 I can assist you in protecting users data in your infrastructure, just drop me an [email](mailto:anastasi@cossacklabs.com).
 
-I share a lot about my engineering life on twitter as [@vixentael](https://twitter.com/vixentael).
+I share a lot about my engineering life on twitter as [@vixentael](https://twitter.com/vixentael), and on [Medium](https://medium.com/@vixentael).
 
 Enjoy! 🔒
 
 ---------------------
 
 # Coming Soon
-
-## Encryption Without Magic, Risk Management Without Pain
-
-\#security \#crypto \#databases \#notmobile
-
-soon | soon | 
----- | ---- |
-
-
-In-depth technical inquiry about cryptography in a wider context: how it helps to narrow more significant risks to controlled attack surfaces, enables managing the risk efficiently and elegantly, how tools and algorithms sit in a broader context of managing infrastructure-wide risks associated with handling sensitive data.
-
-Apart from discussing general technical approaches, we will focus on what do we need to do after we’ve implemented some kind of encryption in our system: monitoring, intrusion detection, key management, key and code trust.
-
-- [QCon London 18](https://qconlondon.com/london2018/presentation/encryption-without-magic-risk-mngmnt-without-pain)<br/>
-London, UK, 5-7 March 2018
-
 
 ## 10 Things you Need to Know before Implementing Cryptography
 
@@ -38,6 +22,33 @@ Before we get really deep into protocols vulnerabilities: things you should reme
 
 - [UIKonf 18](http://www.uikonf.com/)<br/>
 Berlin, Germany, 13-16 May 2018
+
+---------------------
+
+# 2018
+
+## Encryption Without Magic, Risk Management Without Pain
+
+\#security \#crypto \#databases \#notmobile \#trust \#infrastructures \#separation-of-duties \#echelonization
+
+[slides](https://speakerdeck.com/vixentael/encryption-without-magic-risk-management-without-pain) | video gonna be soon |
+---- | --- |
+
+
+<img src="pics/narrowing_attack_surface_preview.jpg" alt="Encryption Without Magic, Risk Management Without Pain" style="height: 466;"/>
+
+In-depth technical inquiry about cryptography in a wider context: how it helps to narrow more significant risks to controlled attack surfaces, enables managing the risk efficiently and elegantly, how tools and algorithms sit in a broader context of managing infrastructure-wide risks associated with handling sensitive data.
+
+1. What is attack surface, how cryptography helps to narrow it. 
+2. Simple crypto-systems, but significant downsides. 
+3. Middleware-side encryption: protecting data in web-based infrastructures. 
+4. Client-side encryption: trust to mobile apps and code execution. E2EE. ZKA. ZKP. 
+5. Echelonization, and traditional techniques.
+
+**Presented at:**
+
+- [QCon London 18](https://qconlondon.com/london2018/presentation/encryption-without-magic-risk-mngmnt-without-pain)<br/>
+London, UK, 5-7 March 2018
 
 ---------------------
 
@@ -61,9 +72,13 @@ Crypto in our lives: why you shouldn’t spend time learning all the details of 
 4. How to select appropriate software crypto: libs, systems, containers. 
 5. We want crypto to be similar to the Edison lamp: controllable and boring system.
 
+**Presented at:**
+
+- [Devexperience.ro](http://devexperience.ro/tracks/futuretech/)</br>
+Iasi, Romania, 23 April 2018  
+
 - [OWASP Kyiv Meetup Winter 17](https://www.facebook.com/events/134239973868217/)</br>
 Kyiv, Ukraine, 2 December 2017 
-
 
 ## Blockchain solutions: the balance of safety and efficiency, or just a trend?
 
@@ -79,6 +94,7 @@ The security engineer's job is to choose the appropriate solutions for the probl
 
 I will talk about the other side - where blockchain looks like an optimal strategy, where it causes questions. We will walk through the risk&threats models, trust, and guarantees, to the experience of using blockchain in the real project (and what happened next).
 
+**Presented at:**
 
 - [UA.SC 17](https://www.facebook.com/events/119916742082061/)</br>
 Kyiv, Ukraine, 18 October 2017 
@@ -98,6 +114,7 @@ With intensifying threat access, snooping governments and insecure-internet-of-e
 
 We will talk about real-world problems that ZKA fights against, learn typical cryptographic designs and progress in different spheres of ZKA. We will find out how to make data sharing, user collaboration on data in the cloud with your app provably secure.
 
+**Presented at:**
 
 - [DevFest Baltics 17](https://devfest.gdg.lv/)</br>
 Riga, Latvia, 17 November 2017 
