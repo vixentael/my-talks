@@ -23,6 +23,13 @@ Before we get really deep into protocols vulnerabilities: things you should reme
 - [UIKonf 18](http://www.uikonf.com/)<br/>
 Berlin, Germany, 13-16 May 2018
 
+## Zero knowledge architecture approach for mobile developers [workshop] 🛠
+
+\#mobile \#security \#ZKA
+
+- [Swift Aveiro](http://swiftaveiro.xyz/#mentors)<br/>
+Aveiro, Portugal, 21-22 June 2018
+
 ---------------------
 
 # 2018
@@ -47,6 +54,8 @@ In-depth technical inquiry about cryptography in a wider context: how it helps t
 
 **Presented at:**
 
+- [Security BSides Ukraine](https://securitybsides.org.ua/#speakers)<br/>
+Kyiv, Ukraine, 21 April 2018
 - [QCon London 18](https://qconlondon.com/london2018/presentation/encryption-without-magic-risk-mngmnt-without-pain)<br/>
 London, UK, 5-7 March 2018
 
