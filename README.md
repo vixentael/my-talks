@@ -93,7 +93,7 @@ Kyiv, Ukraine, 2 December 2017
 
 \#security \#blockchain
 
-[slides](https://speakerdeck.com/vixentael/blockchain-solutions-the-balance-of-safety-and-efficiency-or-just-a-trend) | wait for video|
+[slides](https://speakerdeck.com/vixentael/blockchain-solutions-the-balance-of-safety-and-efficiency-or-just-a-trend) | [video (ru)](https://www.youtube.com/watch?v=McTdjdYCrKo)|
 ---- | --- |
 
 
