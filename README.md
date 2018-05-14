@@ -29,7 +29,7 @@ Aveiro, Portugal, 21-22 June 2018
 
 \#mobile \#security \#basic-sanity
 
-[slides](https://speakerdeck.com/vixentael/things-to-know-before-crypto-uikonf) | video gonna be soon |
+[slides](https://speakerdeck.com/vixentael/x-things-you-need-to-know-before-implementing-cryptography) | video gonna be soon |
 ---- | --- |
 
 <img src="pics/x_things_before_crypto.jpg" alt="X Things you Need to Know before Implementing Cryptography" style="height: 466;"/>
