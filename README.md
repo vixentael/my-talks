@@ -29,7 +29,7 @@ Aveiro, Portugal, 21-22 June 2018
 
 \#mobile \#security \#basic-sanity
 
-[slides](https://speakerdeck.com/vixentael/https://speakerdeck.com/vixentael/things-to-know-before-crypto-uikonf) | video gonna be soon |
+[slides](https://speakerdeck.com/vixentael/things-to-know-before-crypto-uikonf) | video gonna be soon |
 ---- | --- |
 
 <img src="pics/x_things_before_crypto.jpg" alt="X Things you Need to Know before Implementing Cryptography" style="height: 466;"/>
@@ -40,7 +40,7 @@ This talk will focus on copybook headings of infosec: what you need to know befo
 
 Even when developers create apps with security in minds, protect user secrets, and don’t reveal unencrypted data, attackers can find ways to bypass these security measures by exploiting architectural weaknesses and unobvious, yet very simple vulnerabilities. We will talk about all the tiny bits and pieces are necessary to make your app secure against simple attacks way before focusing on the hard things (like crypto).
 
-1. Handling user secrets with care (showing, storing, loging).
+1. Handling user secrets with care (showing, storing, logging).
 2. Input validation and password rules.
 3. Handling transport connection.
 4. And some tips and tricks that will confuse attackers.
