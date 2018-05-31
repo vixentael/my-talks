@@ -12,14 +12,15 @@ Enjoy! 🔒
 
 ---------------------
 
-# Coming Soon
+# Conferences / talks coming soon (2018)
 
-## Zero knowledge architecture approach for mobile developers [workshop] 🛠
-
-\#mobile \#security \#ZKA
-
-- [Swift Aveiro](http://swiftaveiro.xyz/#mentors)<br/>
-Aveiro, Portugal, 21-22 June 2018
+| What | When | Where | Topic |
+| -- | -- | --- | --- |
+| [Javazone](https://2018.javazone.no/) | 12-13 September | Oslo, Norway | Protecting sensitive data in modern multi-component systems |
+| [Swift and Fika](http://www.swiftandfika.com/) | 10 September | Stockholm, Sweden | _(security-related :D)_ |
+| -- | -- | --- | --- |
+| [QConNYC](https://qconnewyork.com/) | 27-29 June | NYC, USA | Making security usable: Product Engineer perspective  |
+| [Swift Aveiro](http://swiftaveiro.xyz/#mentors) | 21-22 June | Aveiro, Portugal | Zero knowledge architecture approach for mobile developers [workshop] 🛠 |
 
 ---------------------
 
@@ -29,7 +30,7 @@ Aveiro, Portugal, 21-22 June 2018
 
 \#mobile \#security \#basic-sanity
 
-[slides](https://speakerdeck.com/vixentael/x-things-you-need-to-know-before-implementing-cryptography) | video gonna be soon |
+[slides](https://speakerdeck.com/vixentael/x-things-you-need-to-know-before-implementing-cryptography) | [video](https://www.youtube.com/watch?v=_fKR-KZ4yJQ) |
 ---- | --- |
 
 <img src="pics/x_things_before_crypto.jpg" alt="X Things you Need to Know before Implementing Cryptography" style="height: 466;"/>
