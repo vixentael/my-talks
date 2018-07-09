@@ -18,13 +18,59 @@ Enjoy! 🔒
 | -- | -- | --- | --- |
 | [Javazone](https://2018.javazone.no/) | 12-13 September | Oslo, Norway | Protecting sensitive data in modern multi-component systems |
 | [Swift and Fika](http://www.swiftandfika.com/) | 10 September | Stockholm, Sweden | _(security-related :D)_ |
-| -- | -- | --- | --- |
-| [QConNYC](https://qconnewyork.com/) | 27-29 June | NYC, USA | Making security usable: Product Engineer perspective  |
-| [Swift Aveiro](http://swiftaveiro.xyz/#mentors) | 21-22 June | Aveiro, Portugal | Zero knowledge architecture approach for mobile developers [workshop] 🛠 |
 
 ---------------------
 
 # 2018
+
+## Making Security Usable: Product Engineer Perspective
+
+\#security \#usability \#basic-sanity \#product-engineering
+
+[slides](https://speakerdeck.com/vixentael/x-things-you-need-to-know-before-implementing-cryptography) | [video](https://www.youtube.com/watch?v=_fKR-KZ4yJQ) |
+---- | --- |
+
+<img src="pics/making_security_usable.jpg" alt="Making Security Usable: Product Engineer Perspective" style="height: 466;"/>
+
+
+This is a story of going through typical security challenges: how to build products that reliably deliver security guarantees, avoid typical pitfalls, and are usable in a predictable fashion by real users. It's a tale of balancing religious adherence to security practices with keeping customer's needs in mind at all time inside the development team; listening to the customers and observing actual behavior outside in the wild; and trying to make the best decisions to empower customers with easy tools for encrypting data in their apps securely and without pain.   
+
+We'll take a look at the process through the eyes of one of our customers, who made all the things wrong before doing things right, and through the eyes of product engineer, responsible for learning the lessons to make security products even more usable and reliable for non-security-focused engineers. 
+
+**Key takeaways:**
+
+Attendees will go through several stages of inception and implementation of database encryption/intrusion detection tools. They will see the "behind the scenes" work inside a cryptographic engineering company, will see how customers are one of the most useful people to learn from, and how getting over "we tell you what to do" mentality makes security tools better.
+
+**Presented at:**
+
+- [QConNYC 18](https://qconnewyork.com/ny2018/presentation/security-presentation-2)<br/>
+New York City, USA, 27-29 June 2018
+
+
+## Zero Knowledge Architecture Approach for Mobile Developers [workshop] 🛠
+
+\#security \#workshop \#mobile \#cryptography \#symm-encryption \#asymm-encryption
+
+[github repo](https://github.com/vixentael/zka-example)
+---- |
+
+Zero knowledge algorithms and protocols ensure that no keys, passwords, files, or any other sensitive material ever gets transferred in an unencrypted or reversible form. There is no point in time when encryption keys or unencrypted files are visible to the servers or service administrators.
+
+We took simple iOS application (Firebase notes app) and implemented two encryption schemes to illustrate how easy it is to protect data even for apps that use BaaS.
+
+Plan:
+ 1. Learn about ZKA
+ 2. Familiarize with Firebase notes application
+ 3. Protect own notes (E2EE)
+ 4. Share notes to other users
+ 5. Improve security in general
+(protect keys, improve login flow, hide screenshots, obfuscate code etc)
+
+**Workshoped at:**
+
+- [The Swift Aveiro](http://swiftaveiro.xyz/)<br/>
+Aveiro, Portugal, 21-22 June 2018
+
 
 ## X Things you Need to Know before Implementing Cryptography
 
