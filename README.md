@@ -27,7 +27,7 @@ Enjoy! 🔒
 
 \#security \#usability \#basic-sanity \#product-engineering
 
-[slides](https://speakerdeck.com/vixentael/x-things-you-need-to-know-before-implementing-cryptography) | [video](https://www.youtube.com/watch?v=_fKR-KZ4yJQ) |
+[slides](https://speakerdeck.com/vixentael/making-security-usable-product-engineer-perspective) | no video yet |
 ---- | --- |
 
 <img src="pics/making_security_usable.jpg" alt="Making Security Usable: Product Engineer Perspective" style="height: 466;"/>
