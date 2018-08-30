@@ -17,7 +17,7 @@ Enjoy! 🔒
 | What | When | Where | Topic |
 | -- | -- | --- | --- |
 | [Javazone](https://2018.javazone.no/) | 12-13 September | Oslo, Norway | Protecting sensitive data in modern multi-component systems |
-| [Swift and Fika](http://www.swiftandfika.com/) | 10 September | Stockholm, Sweden | _(security-related :D)_ |
+| [Swift and Fika](http://www.swiftandfika.com/) | 10 September | Stockholm, Sweden | Use Cryptography; Don't Learn It |
 
 ---------------------
 
