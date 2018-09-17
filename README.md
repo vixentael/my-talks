@@ -2,11 +2,11 @@ A list of topics I speak about on the different conferences, including posts, vi
 
 ---------------------
 
-I'm working at [@cossacklabs](http://twitter.com/cossacklabs) on security products that provide strong, usable cryptography for busy people. Many things are open source, i.e. [Themis](https://github.com/cossacklabs/themis) — the crypto library for storage and messaging in mobile, desktop, and web apps, or [Acra](https://github.com/cossacklabs/acra) — database proxy with intrusion detection. 
+I'm product engineer at [@cossacklabs](http://twitter.com/cossacklabs), working on security products that provide strong, usable cryptography for busy people. Many things are open source, i.e. [Themis](https://github.com/cossacklabs/themis) — the crypto library for storage and messaging in mobile, desktop, and web apps, or [Acra](https://github.com/cossacklabs/acra) — database proxy with intrusion detection. 
 
-I can assist you in protecting users data in your infrastructure, just drop me an [email](mailto:anastasi@cossacklabs.com).
+Our team can assist you in protecting data in your apps and infrastructures, check [DGAP](https://www.cossacklabs.com/dgap/).
 
-I share a lot about my engineering life on twitter as [@vixentael](https://twitter.com/vixentael), and on [Medium](https://medium.com/@vixentael).
+Find me on Twitter [@vixentael](https://twitter.com/vixentael), on Medium [@vixentael](https://medium.com/@vixentael).
 
 Enjoy! 🔒
 
@@ -16,12 +16,38 @@ Enjoy! 🔒
 
 | What | When | Where | Topic |
 | -- | -- | --- | --- |
-| [Javazone](https://2018.javazone.no/) | 12-13 September | Oslo, Norway | Protecting sensitive data in modern multi-component systems |
-| [Swift and Fika](http://www.swiftandfika.com/) | 10 September | Stockholm, Sweden | Use Cryptography; Don't Learn It |
+| [CocoaHeads Kyiv #14](https://www.facebook.com/events/273895453206769/) | 6 October | Kyiv, Ukraine | X Things you Need to Know before Implementing Cryptography |
+| [Tech Trends 2018](https://fwdays.com/en/event/tech-trends-fwdays-2018) | 24 November | Kyiv, Ukraine | Protecting sensitive data in modern multi-component systems |
 
 ---------------------
 
 # 2018
+
+## Protecting sensitive data in modern multi-component systems
+
+\#security \#software-architecture \#basic-sanity \#product-engineering
+
+[slides](https://speakerdeck.com/vixentael/protecting-sensitive-data-in-modern-multi-component-systems) | [video](https://2018.javazone.no/program/7ba1d745-427c-42de-b677-1285b56301ae) |
+---- | --- |
+
+<img src="pics/multi_component_trust.jpg" alt="Protecting sensitive data in modern multi-component systems" style="height: 466;"/>
+
+
+We will take a deep look into data lifecycle, risk, trust and how they affect security architecture, encryption, and key management techniques. We will illustrate typical SDL patterns: narrowing trust, monitoring intrusions, zero knowledge architectures, distributing trust. The goal of the talk is to give general thinking framework and enough ideas about tools for senior engineers to plan their solutions securely, regarding sensitive data contained within.
+
+**Plan:**
+
+💫 modern apps are multi-components, most data leaks are caused by poor architectural decisions,</br> 
+💫 what is sensitive data life-cycle, </br>
+💫 how to build trust model for your app, </br>
+💫 what are typical trust patterns, </br>
+💫 how to select proper security controls based on real-world risks.</br>
+
+**Presented at:**
+
+- [Javazone 18](https://2018.javazone.no/program/7ba1d745-427c-42de-b677-1285b56301ae)<br/>
+Oslo, Norway, 12-13 September 2018
+
 
 ## Making Security Usable: Product Engineer Perspective
 
@@ -68,9 +94,11 @@ Plan:
 
 **Workshoped at:**
 
+- [Special workshop for Women Who Code Kyiv](https://www.meetup.com/Women-Who-Code-Kyiv/events/253917676/)<br/>
+Kyiv, Ukraine, 30 August 2018
+
 - [The Swift Aveiro](http://swiftaveiro.xyz/)<br/>
 Aveiro, Portugal, 21-22 June 2018
-
 
 ## X Things you Need to Know before Implementing Cryptography
 
@@ -118,10 +146,11 @@ In-depth technical inquiry about cryptography in a wider context: how it helps t
 
 **Presented at:**
 
-- [Security BSides Ukraine](https://securitybsides.org.ua/#speakers)<br/>
-Kyiv, Ukraine, 21 April 2018
 - [QCon London 18](https://qconlondon.com/london2018/presentation/encryption-without-magic-risk-mngmnt-without-pain)<br/>
 London, UK, 5-7 March 2018
+
+- [Security BSides Ukraine](https://securitybsides.org.ua/#speakers)<br/>
+Kyiv, Ukraine, 21 April 2018
 
 ---------------------
 
@@ -146,6 +175,9 @@ Crypto in our lives: why you shouldn’t spend time learning all the details of 
 5. We want crypto to be similar to the Edison lamp: controllable and boring system.
 
 **Presented at:**
+
+- [Swift and Fika](http://www.swiftandfika.com/)</br> 
+Stockholm, Sweden, 10 September 2018
 
 - [Devexperience.ro](http://devexperience.ro/tracks/futuretech/)</br>
 Iasi, Romania, 23 April 2018  
