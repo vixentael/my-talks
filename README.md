@@ -16,8 +16,7 @@ Enjoy! 🔒
 
 | What | When | Where | Topic |
 | -- | -- | --- | --- |
-| [CocoaHeads Kyiv #14](https://www.facebook.com/events/273895453206769/) | 6 October | Kyiv, Ukraine | X Things you Need to Know before Implementing Cryptography |
-| [Tech Trends 2018](https://fwdays.com/en/event/tech-trends-fwdays-2018) | 24 November | Kyiv, Ukraine | Protecting sensitive data in modern multi-component systems |
+| [Codemotion Milan](https://milan2018.codemotionworld.com/) | 29-30 November | Milan, Italy | Encryption Without Magic, Risk Management Without Pain |
 
 ---------------------
 
@@ -121,6 +120,9 @@ Even when developers create apps with security in minds, protect user secrets, a
 4. And some tips and tricks that will confuse attackers.
 
 **Presented at:**
+
+- [CocoaHeads Kyiv #14](https://www.facebook.com/events/273895453206769/)<br/>
+Kyiv, Ukraine, 6 October 2018
 
 - [UIKonf 18](http://www.uikonf.com/)<br/>
 Berlin, Germany, 13-16 May 2018
