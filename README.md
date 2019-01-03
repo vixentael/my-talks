@@ -1,26 +1,32 @@
-A list of topics I speak about on the different conferences, including posts, videos, slides etc. I track resources on my own, so maybe I'm missing smth.
+A list of my talks about security engineering, applied cryptography, security usability. My Twitter [@vixentael](https://twitter.com/vixentael), my Medium [@vixentael](https://medium.com/@vixentael).
 
----------------------
+I'm product engineer at [@cossacklabs](http://twitter.com/cossacklabs), I work on cyber-security tools that provide strong, usable cryptography for busy engineers. Check these open source tools: [Themis](https://github.com/cossacklabs/themis) — the crypto library for storage and messaging in mobile, desktop, and web apps; [Acra](https://github.com/cossacklabs/acra) — database security suite with SQL firewall and IDS. 
 
-I'm product engineer at [@cossacklabs](http://twitter.com/cossacklabs), working on security products that provide strong, usable cryptography for busy people. Many things are open source, i.e. [Themis](https://github.com/cossacklabs/themis) — the crypto library for storage and messaging in mobile, desktop, and web apps, or [Acra](https://github.com/cossacklabs/acra) — database proxy with intrusion detection. 
-
-Our team can assist you in protecting data in your apps and infrastructures, check [DGAP](https://www.cossacklabs.com/dgap/).
-
-Find me on Twitter [@vixentael](https://twitter.com/vixentael), on Medium [@vixentael](https://medium.com/@vixentael).
+Our team is available for general data security / applied cryptography [consulting and engineering](https://www.cossacklabs.com/dgap/), where we focus on real-world risk prevention and making cryptography-based security a solid foundation of other security measures. We conduct practical secure application development [training for developers](https://training.cossacklabs.com) (defensive security).
 
 Enjoy! 🔒
 
 ---------------------
 
-# Conferences / talks coming soon (2018)
+# Conferences coming soon (2019)
 
+In 2019 I want to focus on defensive security topics that are interesting for tech leads, CTO, solution architects. Among other ideas: building multi-layered defense in large infrastructures, improving secure software development process in the team. 
+
+[Email me](mailto:vixentael@gmail.com) if you want to invite me to speak at your conference :)
+
+<!----
 | What | When | Where | Topic |
 | -- | -- | --- | --- |
-| [Codemotion Milan](https://milan2018.codemotionworld.com/) | 29-30 November | Milan, Italy | Encryption Without Magic, Risk Management Without Pain |
+--->
 
 ---------------------
 
 # 2018
+
+## Secure Development Is Dead, Long Live Secure Development
+
+Essay for [De Programmatica Ipsum magazine](https://deprogrammaticaipsum.com/2018/12/03/secure-development-is-dead-long-live-secure-development/) about secure software development and the mindset gap between the world of product makers and the world of security people.
+
 
 ## Protecting sensitive data in modern multi-component systems
 
@@ -153,6 +159,9 @@ London, UK, 5-7 March 2018
 
 - [Security BSides Ukraine](https://securitybsides.org.ua/#speakers)<br/>
 Kyiv, Ukraine, 21 April 2018
+
+- [Codemotion Milan](https://milan2018.codemotionworld.com/)<br/>
+Milan, Italy, 29-30 November
 
 ---------------------
 
