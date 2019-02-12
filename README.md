@@ -1,8 +1,13 @@
-A list of my talks about security engineering, applied cryptography, security usability. My Twitter [@vixentael](https://twitter.com/vixentael), my Medium [@vixentael](https://medium.com/@vixentael).
+A list of my talks about security engineering, applied cryptography, security usability. [Twitter](https://twitter.com/vixentael), [Medium](https://medium.com/@vixentael).
 
-I'm product engineer at [@cossacklabs](http://twitter.com/cossacklabs), I work on cyber-security tools that provide strong, usable cryptography for busy engineers. Check these open source tools: [Themis](https://github.com/cossacklabs/themis) — the crypto library for storage and messaging in mobile, desktop, and web apps; [Acra](https://github.com/cossacklabs/acra) — database security suite with SQL firewall and IDS. 
+I have a wide software engineering background, now I work as Product Engineer at cryptographic company [@CossackLabs](http://twitter.com/cossacklabs). We build cyber-security tools that provide strong, easy-to-use and hard-to-misuse cryptography for busy engineers.
 
-Our team is available for general data security / applied cryptography [consulting and engineering](https://www.cossacklabs.com/dgap/), where we focus on real-world risk prevention and making cryptography-based security a solid foundation of other security measures. We conduct practical secure application development [training for developers](https://training.cossacklabs.com) (defensive security).
+* Open source tools:
+   * [Themis](https://github.com/cossacklabs/themis) — the crypto library for storage and messaging in mobile, desktop, and web apps;
+   * [Acra](https://github.com/cossacklabs/acra) — database security suite with SQL firewall and IDS;
+   * [Hermes](https://github.com/cossacklabs/hermes-core) — end-to-end encryption engine for data collaboration (mobile, web, infrastructures);
+* [Consultancy](https://www.cossacklabs.com/dgap/) — we work as external security engineering team, helping you to build a cryptography-based security foundation in your apps (covering regulations and real-world risks);
+* [Training](https://training.cossacklabs.com) — secure software development training for developers, architects, managers; we teach how to build, not how to crack.
 
 Enjoy! 🔒
 
@@ -14,10 +19,14 @@ In 2019 I want to focus on defensive security topics that are interesting for te
 
 [Email me](mailto:vixentael@gmail.com) if you want to invite me to speak at your conference :)
 
-<!----
-| What | When | Where | Topic |
-| -- | -- | --- | --- |
---->
+
+| What | When | Where | Audience | Topic |
+| --- | --- | --- | --- | --- |
+| [SkillsMatter iOSCon 2019](https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers) | 21-21 March | London, UK | iOS developers | Workshop. Secure Software Development: From Rookie to Hardcore in 90 Minutes |
+| [JSFest](http://jsfest.com.ua) | 4-5 April | Kyiv, Ukraine | solution architecs, web devs | "Defense in depth": trench warfare principles for building secure web applications |
+| [DevExperience Ro](http://devexperience.ro/) | 19-20 April | Iasi, Romania | solution architecs, lead devs | Protecting sensitive data in modern multi-component systems |
+| [InfoShare](https://infoshare.pl/) | 8-9 May | Gdansk, Poland | security-minded people | "Defense in depth": trench warfare principles for building secure web applications |
+| [NonameCon](https://nonamecon.org) | 14-19 May | Kyiv, Ukraine | security-minded people, hackerz | Program Committee, Org team |
 
 ---------------------
 
