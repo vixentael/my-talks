@@ -22,13 +22,47 @@ In 2019 I want to focus on defensive security topics that are interesting for te
 
 | What | When | Where | Audience | Topic |
 | --- | --- | --- | --- | --- |
-| [SkillsMatter iOSCon 2019](https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers) | 21-21 March | London, UK | iOS developers | Workshop. Secure Software Development: From Rookie to Hardcore in 90 Minutes |
-| [JSFest](http://jsfest.com.ua) | 4-5 April | Kyiv, Ukraine | solution architecs, web devs | "Defense in depth": trench warfare principles for building secure web applications |
-| [DevExperience Ro](http://devexperience.ro/) | 19-20 April | Iasi, Romania | solution architecs, lead devs | Protecting sensitive data in modern multi-component systems |
-| [InfoShare](https://infoshare.pl/) | 8-9 May | Gdansk, Poland | security-minded people | "Defense in depth": trench warfare principles for building secure web applications |
+| [InfoShare](https://infoshare.pl/) | 8-9 May | Gdansk, Poland | security-minded people | "Defense in depth": trench warfare principles for building secure distributed applications |
+| [NonameCon CyberKids](https://nonamecon.org) | 14 May | Kyiv, Ukraine | school kids | "Encryption, how to chat with your friends so noone could read your chats"|
 | [NonameCon](https://nonamecon.org) | 14-19 May | Kyiv, Ukraine | security-minded people, hackerz | Program Committee, Org team |
-
+| [muCon](https://skillsmatter.com/conferences/11982-con-london-2019-the-conference-on-microservices-ddd-and-software-architecture) | 29 - 31 May | London, UK | solution architecs, lead devs | "Defense in depth": trench warfare principles for building secure distributed applications |
 ---------------------
+
+# 2019
+
+## "Defense in depth": trench warfare principles for building secure distributed applications
+
+\#security \#software-architecture \#app-sec
+
+[slides](https://speakerdeck.com/vixentael/defense-in-depth-trench-warfare-principles-for-building-secure-distributed-applications) | video – soon |
+---- | --- |
+
+It comes to no surprise, that any micro-services, any security controls you use to build applications – will eventually be broken (or fail). Under certain pressure, some components will fail together. 
+
+The question is – how do we build our systems in a way that security incidents won't happen even if some components fail. And the data leaks won't occur even if attacks are successful.
+
+"Defense in depth" is a security engineering pattern, that suggests building an independent set of security controls aimed at mitigating more risks even if the attacker crosses the outer perimeter. During the talk, we will model threats and risks for the modern distributed application, and improve it by building multiple lines of defence. We will overview high-level patterns and exact tools from the security engineering world and explain them to the modern web devs ;)
+
+**Presented at:**
+
+- [JSFest Kyiv](http://jsfest.com.ua/)<br/>
+Kyiv, Ukraine, 5-6 April 2019
+
+## Secure Software Development: From Rookie to Hardcore in 90 Minutes [workshop] 🛠
+
+\#key-management \#workshop \#mobile \#cryptography
+
+[slides](https://speakerdeck.com/vixentael/workshop-secure-software-development-from-rookie-to-hardcore-in-90-minutes) | [github repo](https://github.com/vixentael/ios-datasec-basics)
+| --- | ---- |
+
+OWASP SSDLC, how to select encryption library, what are common mistakes in implementing encryption around data. Key management techniques (storing user passwords, storing API keys).
+
+The actionable to-do list of things you might want to improve in your apps, deepen your understanding of the landscape of cybersecurity, a set of resources to read/dive next to make your apps even more secure.
+
+**Workshoped at:**
+
+- [iOSCon London](https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers#program)<br/>
+London, UK, 21 March 2019
 
 # 2018
 
@@ -59,6 +93,9 @@ We will take a deep look into data lifecycle, risk, trust and how they affect se
 
 **Presented at:**
 
+- [DevExperience 19](http://devexperience.ro)<br/>
+Iasi, Romania, 19 April 2019
+
 - [Javazone 18](https://2018.javazone.no/program/7ba1d745-427c-42de-b677-1285b56301ae)<br/>
 Oslo, Norway, 12-13 September 2018
 
@@ -71,7 +108,6 @@ Oslo, Norway, 12-13 September 2018
 ---- | --- |
 
 <img src="pics/making_security_usable.jpg" alt="Making Security Usable: Product Engineer Perspective" style="height: 466;"/>
-
 
 This is a story of going through typical security challenges: how to build products that reliably deliver security guarantees, avoid typical pitfalls, and are usable in a predictable fashion by real users. It's a tale of balancing religious adherence to security practices with keeping customer's needs in mind at all time inside the development team; listening to the customers and observing actual behavior outside in the wild; and trying to make the best decisions to empower customers with easy tools for encrypting data in their apps securely and without pain.   
 
