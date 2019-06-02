@@ -22,10 +22,10 @@ In 2019 I want to focus on defensive security topics that are interesting for te
 
 | What | When | Where | Audience | Topic |
 | --- | --- | --- | --- | --- |
-| [InfoShare](https://infoshare.pl/) | 8-9 May | Gdansk, Poland | security-minded people | "Defense in depth": trench warfare principles for building secure distributed applications |
-| [NonameCon CyberKids](https://nonamecon.org) | 14 May | Kyiv, Ukraine | school kids | "Encryption, how to chat with your friends so noone could read your chats"|
-| [NonameCon](https://nonamecon.org) | 14-19 May | Kyiv, Ukraine | security-minded people, hackerz | Program Committee, Org team |
-| [muCon](https://skillsmatter.com/conferences/11982-con-london-2019-the-conference-on-microservices-ddd-and-software-architecture) | 29 - 31 May | London, UK | solution architecs, lead devs | "Defense in depth": trench warfare principles for building secure distributed applications |
+| [SwampUP](https://swampup.jfrog.com/) | 17-19 June | San Francisco, US | devops | "Defense in depth": trench warfare principles for building secure distributed applications |
+| [RSConf](https://rsconf.by/) | 9-11 August | Minsk, Belarus | mobile devs | 10 lines of encryption, 1500 lines of key management |
+| [FrenchKit](https://frenchkit.fr/) | 7-8 October | Paris, France | mobile devs | 10 lines of encryption, 1500 lines of key management |
+
 ---------------------
 
 # 2019
@@ -34,8 +34,8 @@ In 2019 I want to focus on defensive security topics that are interesting for te
 
 \#security \#software-architecture \#app-sec
 
-[slides](https://speakerdeck.com/vixentael/defense-in-depth-trench-warfare-principles-for-building-secure-distributed-applications) | video – soon |
----- | --- |
+[slides](https://speakerdeck.com/vixentael/defense-in-depth-trench-warfare-principles-for-building-secure-distributed-applications) | [video from mucon](https://skillsmatter.com/skillscasts/13782-defense-in-depth-trench-warfare-principles-for-building-secure-distributed-applications) | video from infoshare coming soon |
+---- | --- | --- |
 
 It comes to no surprise, that any micro-services, any security controls you use to build applications – will eventually be broken (or fail). Under certain pressure, some components will fail together. 
 
@@ -45,8 +45,29 @@ The question is – how do we build our systems in a way that security incidents
 
 **Presented at:**
 
+- [muCon](https://skillsmatter.com/conferences/11982-con-london-2019-the-conference-on-microservices-ddd-and-software-architecture)<br/>
+London, UK, 29-31 May 2019
+
+- [InfoShare](https://infoshare.pl/)<br/>
+Gdansk, Poland, 8-9 May 2019
+
 - [JSFest Kyiv](http://jsfest.com.ua/)<br/>
 Kyiv, Ukraine, 5-6 April 2019
+
+
+## Encryption intro for kids (13-17 yo)
+
+[slides (ukr)](https://speakerdeck.com/vixentael/data-encryption-cyberkids-edition) |
+---- |
+
+I was co-organizing and speaking at CyberKids event during NoNameCon cyber security conference in Kyiv, Ukraine, 14-17 May. Kids learnt basics about encryption and did simple cipher-decipher exercises. 
+
+Read about in [my LN post](https://www.linkedin.com/feed/update/urn:li:activity:6535973905750990849) and [NoNameCon site](https://www.nonamecon.org/).
+
+**Presented at:**
+
+- [NonameCon CyberKids](https://nonamecon.org)<br/>
+Kyiv, Ukraine, 14 May 2019
 
 ## Secure Software Development: From Rookie to Hardcore in 90 Minutes [workshop] 🛠
 
