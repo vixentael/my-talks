@@ -289,8 +289,8 @@ Kyiv, Ukraine, 18 October 2017
 
 \#security \#mobile \#zkp \#zka
 
-[slides](https://speakerdeck.com/vixentael/zero-knowledge-architectures-for-mobile-applications) | [Mobiconf video (en)](https://www.youtube.com/watch?v=79iqPsPc6ZE&index=17&list=PLr5cF6ekyIDgWee0wtwMKSGcoMvt5fkn_) |
----- | --- |
+[slides](https://speakerdeck.com/vixentael/zero-knowledge-architectures-for-mobile-applications) | [Mobiconf video](https://www.youtube.com/watch?v=79iqPsPc6ZE&index=17&list=PLr5cF6ekyIDgWee0wtwMKSGcoMvt5fkn_) | |DevFest Baltics video](https://www.youtube.com/watch?v=O-PnVVCc5fY)
+---- | --- | --- |
 
 
 <img src="pics/zka.jpg" alt="Build it solve it" style="height: 466;"/>
