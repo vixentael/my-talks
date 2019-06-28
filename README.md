@@ -175,8 +175,8 @@ Aveiro, Portugal, 21-22 June 2018
 
 \#mobile \#security \#basic-sanity
 
-[slides](https://speakerdeck.com/vixentael/x-things-you-need-to-know-before-implementing-cryptography) | [video](https://www.youtube.com/watch?v=_fKR-KZ4yJQ) |
----- | --- |
+[slides](https://speakerdeck.com/vixentael/x-things-you-need-to-know-before-implementing-cryptography) | [video from UIKonf](https://www.youtube.com/watch?v=_fKR-KZ4yJQ) | [video from mDevTalk](https://www.youtube.com/watch?v=Cn4LBBZ3Wt4) | [video from CocoaHeads [ru]](https://www.youtube.com/watch?v=k6CXrmrdCJQ)
+---- | --- | --- | --- |
 
 <img src="pics/x_things_before_crypto.jpg" alt="X Things you Need to Know before Implementing Cryptography" style="height: 466;"/>
 
@@ -195,6 +195,9 @@ Even when developers create apps with security in minds, protect user secrets, a
 
 - [CocoaHeads Kyiv #14](https://www.facebook.com/events/273895453206769/)<br/>
 Kyiv, Ukraine, 6 October 2018
+
+- [mDevTalk 18](https://www.mdevtalk.cz/en/)<br/>
+Prague Czech Republic, 24 May 2018
 
 - [UIKonf 18](http://www.uikonf.com/)<br/>
 Berlin, Germany, 13-16 May 2018
