@@ -204,8 +204,8 @@ Berlin, Germany, 13-16 May 2018
 
 \#security \#crypto \#databases \#notmobile \#trust \#infrastructures \#separation-of-duties \#echelonization
 
-[slides](https://speakerdeck.com/vixentael/encryption-without-magic-risk-management-without-pain) | [video](https://www.infoq.com/presentations/encryption-risk-management) |
----- | --- |
+[slides](https://speakerdeck.com/vixentael/encryption-without-magic-risk-management-without-pain) | [video from QCon](https://www.infoq.com/presentations/encryption-risk-management) | [video from Security BSides [ru]](https://www.youtube.com/watch?v=7nrPbJD0kF4) |
+---- | --- | --- |
 
 
 <img src="pics/narrowing_attack_surface_preview.jpg" alt="Encryption Without Magic, Risk Management Without Pain" style="height: 466;"/>
