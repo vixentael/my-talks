@@ -22,7 +22,6 @@ In 2019 I want to focus on defensive security topics that are interesting for te
 
 | What | When | Where | Audience | Topic |
 | --- | --- | --- | --- | --- |
-| [SwampUP](https://swampup.jfrog.com/) | 17-19 June | San Francisco, US | devops | "Defense in depth": trench warfare principles for building secure distributed applications |
 | [RSConf](https://rsconf.by/) | 9-11 August | Minsk, Belarus | mobile devs | 10 lines of encryption, 1500 lines of key management |
 | [FrenchKit](https://frenchkit.fr/) | 7-8 October | Paris, France | mobile devs | 10 lines of encryption, 1500 lines of key management |
 
@@ -30,11 +29,25 @@ In 2019 I want to focus on defensive security topics that are interesting for te
 
 # 2019
 
+## Security, privacy and cryptography at WWDC19
+
+\#mobile \#iosdev \#encryption \#privacy
+
+[slides](https://speakerdeck.com/vixentael/security-privacy-and-cryptography-at-wwdc19) | video coming soon | [blog post](https://wwdcbysundell.com/2019/anastasiia-voitova-on-security/) | [interview](https://wwdcbysundell.com/2019/interviews/anastasiia-voitova/)
+---- | --- | --- |  --- |
+
+Apple made many announcements on WWDC 2019 about cryptography, cybersecurity and privacy. Anastasiia highlighted important changes for developers – including new CryptoKit framework, data privacy regulations, new app permissions.
+
+**Presented at:**
+
+- [CocoaHeads Ukraine](https://www.facebook.com/CocoaHeadsUkraine/)<br/>
+Kyiv, Ukraine, 14 June 2019
+
 ## "Defense in depth": trench warfare principles for building secure distributed applications
 
 \#security \#software-architecture \#app-sec
 
-[slides](https://speakerdeck.com/vixentael/defense-in-depth-trench-warfare-principles-for-building-secure-distributed-applications) | [video from mucon](https://skillsmatter.com/skillscasts/13782-defense-in-depth-trench-warfare-principles-for-building-secure-distributed-applications) | video from infoshare coming soon |
+[slides](https://speakerdeck.com/vixentael/defense-in-depth-trench-warfare-principles-for-building-secure-distributed-applications) | [video from mucon](https://skillsmatter.com/skillscasts/13782-defense-in-depth-trench-warfare-principles-for-building-secure-distributed-applications) | [blog post](https://www.cossacklabs.com/blog/defense-in-depth-with-acra.html) |
 ---- | --- | --- |
 
 It comes to no surprise, that any micro-services, any security controls you use to build applications – will eventually be broken (or fail). Under certain pressure, some components will fail together. 
@@ -44,6 +57,9 @@ The question is – how do we build our systems in a way that security incidents
 "Defense in depth" is a security engineering pattern, that suggests building an independent set of security controls aimed at mitigating more risks even if the attacker crosses the outer perimeter. During the talk, we will model threats and risks for the modern distributed application, and improve it by building multiple lines of defence. We will overview high-level patterns and exact tools from the security engineering world and explain them to the modern web devs ;)
 
 **Presented at:**
+
+- [SwampUP](https://swampup.jfrog.com/)<br/>
+San Francisco, US, 17-19 June 2019
 
 - [muCon](https://skillsmatter.com/conferences/11982-con-london-2019-the-conference-on-microservices-ddd-and-software-architecture)<br/>
 London, UK, 29-31 May 2019
