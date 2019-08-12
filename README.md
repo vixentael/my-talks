@@ -13,21 +13,46 @@ Enjoy! 🔒
 
 ---------------------
 
-# Conferences coming soon (2019)
+# Conferences coming soon
 
-In 2019 I want to focus on defensive security topics that are interesting for tech leads, CTO, solution architects. Among other ideas: building multi-layered defense in large infrastructures, improving secure software development process in the team. 
+In 2019 I am focusing on defensive security topics that are interesting for tech leads, CTO, solution architects. Security design and engineering, end-to-end encryption cases for non-messaging apps.
 
 [Email me](mailto:vixentael@gmail.com) if you want to invite me to speak at your conference :)
 
 
 | What | When | Where | Audience | Topic |
 | --- | --- | --- | --- | --- |
-| [RSConf](https://rsconf.by/) | 9-11 August | Minsk, Belarus | mobile devs | 10 lines of encryption, 1500 lines of key management |
 | [FrenchKit](https://frenchkit.fr/) | 7-8 October | Paris, France | mobile devs | 10 lines of encryption, 1500 lines of key management |
+| Will be announced | 7-8 November | Switzerland | security engineers, cryptographers | complains about hard life |
+| [QCon SF](http://qconsf.com) | 11-15 November | SF, USA | senior engineers, architects | track host of security track |
 
 ---------------------
 
 # 2019
+
+## 10 lines of encryption, 1500 lines of key management
+
+\#mobile \#iosdev \#encryption \#e2ee \#Bear
+
+[slides](https://speakerdeck.com/vixentael/10-lines-of-encryption-1500-lines-of-key-management) | video coming soon | 
+---- | --- |
+
+The real case about one large note taking the app, that decided to implement convenient note encryption and note locking for their existing user base. But finding a balance between usability, security and mobile platforms' restrictions is complicated.
+
+We will start with the security design scheme, then select the proper encryption library, then implement the flow, and prepare for incidents. Now — think about it — cryptography is only chapter 3 in OWASP MASVS (8 chapters in general). Even the best cryptography will fail if basic security controls are badly implemented.
+
+Points we will go through: the difference between "locking" and "encrypting", the difference between password and encryption key, how to sync passwords between devices, what exactly to store in keychain/keystore, how to use proper cryptography (AES CBC or AES GCM, random salt? IV? padding? what a hell is this mess), how to use biometrics (we don’t want to bother user, let’s use biometric keychain, but what if users will change their fingerprints — shall we invalidate all passwords?), updating encryption version (imagine, vulnerability is discovered in our library or app — how to update cipher, and softly migrate users to the new cipher, if users don’t even have a clue that encryption was versioned).
+
+At the end, this is only one simple JIRA ticket "let's encrypt the notes" from the eyes of security software engineer :)
+
+**Presented at:**
+
+- [RSConf](https://rsconf.by/)<br/>
+Minsk, Belarus, 9-11 August 2019
+
+- [CocoaHeads Kyiv conference](https://www.facebook.com/CocoaHeadsUkraine/)<br/>
+Kyiv, Ukraine, 28 July 2019
+
 
 ## Security, privacy and cryptography at WWDC19
 
@@ -40,7 +65,7 @@ Apple made many announcements on WWDC 2019 about cryptography, cybersecurity and
 
 **Presented at:**
 
-- [CocoaHeads Ukraine](https://www.facebook.com/CocoaHeadsUkraine/)<br/>
+- [CocoaFriday Kyiv meetup](https://www.facebook.com/CocoaHeadsUkraine/)<br/>
 Kyiv, Ukraine, 14 June 2019
 
 ## "Defense in depth": trench warfare principles for building secure distributed applications
