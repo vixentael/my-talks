@@ -72,8 +72,8 @@ Kyiv, Ukraine, 14 June 2019
 
 \#security \#software-architecture \#app-sec
 
-[slides](https://speakerdeck.com/vixentael/defense-in-depth-trench-warfare-principles-for-building-secure-distributed-applications) | [video from mucon](https://skillsmatter.com/skillscasts/13782-defense-in-depth-trench-warfare-principles-for-building-secure-distributed-applications) | [blog post](https://www.cossacklabs.com/blog/defense-in-depth-with-acra.html) |
----- | --- | --- |
+[slides](https://speakerdeck.com/vixentael/defense-in-depth-trench-warfare-principles-for-building-secure-distributed-applications) | [video (en)](https://skillsmatter.com/skillscasts/13782-defense-in-depth-trench-warfare-principles-for-building-secure-distributed-applications)| [video (ru)](https://youtu.be/hoj444FrCUo) | [blog post](https://www.cossacklabs.com/blog/defense-in-depth-with-acra.html) |
+---- | --- | --- | --- |
 
 It comes to no surprise, that any micro-services, any security controls you use to build applications – will eventually be broken (or fail). Under certain pressure, some components will fail together. 
 
