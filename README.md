@@ -22,9 +22,9 @@ In 2019 I am focusing on defensive security topics that are interesting for tech
 
 | What | When | Where | Audience | Topic |
 | --- | --- | --- | --- | --- |
-| [FrenchKit](https://frenchkit.fr/) | 7-8 October | Paris, France | mobile devs | 10 lines of encryption, 1500 lines of key management |
-| Will be announced | 7-8 November | Switzerland | security engineers, cryptographers | complains about hard life |
-| [QCon SF](http://qconsf.com) | 11-15 November | SF, USA | senior engineers, architects | track host of security track |
+| [security engineering training by me & JP](https://eventbrite.com/e/security-engineering-from-encryption-to-software-architecture-patterns-tickets-71768283869) | 4 November | Switzerland | security engineers, cryptographers | security engineering & architecture |
+| [BlackAlps](https://blackalps.ch/ba-19/index.php) | 7-8 November | Switzerland | security engineers, cryptographers | Maintaining Cryptographic Library For 11 Languages: Fun Stories And Epic Bugs |
+| [QCon SF](http://qconsf.com) | 11-15 November | SF, USA | senior engineers, architects | [track host of security track](https://qconsf.com/sf2019/track/trust-safety-security) |
 
 ---------------------
 
@@ -34,8 +34,8 @@ In 2019 I am focusing on defensive security topics that are interesting for tech
 
 \#mobile \#iosdev \#encryption \#e2ee \#Bear
 
-[slides](https://speakerdeck.com/vixentael/10-lines-of-encryption-1500-lines-of-key-management) | video coming soon | 
----- | --- |
+[slides](https://speakerdeck.com/vixentael/10-lines-of-encryption-1500-lines-of-key-management) | [blogpost](https://www.cossacklabs.com/blog/end-to-end-encryption-in-bear-app.html) | [video(ru)](https://www.youtube.com/watch?v=AHQi6wKfvmQ) | video eng coming soon |
+---- | --- | --- |  --- |
 
 The real case about one large note taking the app, that decided to implement convenient note encryption and note locking for their existing user base. But finding a balance between usability, security and mobile platforms' restrictions is complicated.
 
@@ -46,6 +46,9 @@ Points we will go through: the difference between "locking" and "encrypting", th
 At the end, this is only one simple JIRA ticket "let's encrypt the notes" from the eyes of security software engineer :)
 
 **Presented at:**
+
+- [FrenchKit](https://frenchkit.fr/)<br/>
+Paris, France, 7-8 October 2019
 
 - [RSConf](https://rsconf.by/)<br/>
 Minsk, Belarus, 9-11 August 2019
