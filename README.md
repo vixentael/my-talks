@@ -1,13 +1,13 @@
 A list of my talks about security engineering, applied cryptography, security usability. [Twitter](https://twitter.com/vixentael), [Medium](https://medium.com/@vixentael).
 
-I have a wide software engineering background, now I work as Product Engineer at cryptographic company [@CossackLabs](http://twitter.com/cossacklabs). We build cyber-security tools that provide strong, easy-to-use and hard-to-misuse cryptography for busy engineers.
+<p><img src="anastasiia-conf-2019.JPG" alt="vixentael" width="300" height="300" align="left">
+
+I have a wide software engineering background, now I work as a product engineer at cryptographic solutions company [Cossack Labs](https://cossacklabs.com). We provide developers with tools for protection of sensitive data in apps and infrastructures, ranging from SaaS services and mobile apps to critical infrastructure / power grid operators and SCADA networks. Aside from solutions, we do provide [advisory and in-depth application security consulting](https://www.cossacklabs.com/services/overview/), assisting developments on various stages of development with security review and improvement advice. Also me & my team conduct secure software development [training](https://training.cossacklabs.com) for senior developers, architects and product managers.
 
 * Open source tools:
    * [Themis](https://github.com/cossacklabs/themis) — the crypto library for storage and messaging in mobile, desktop, and web apps;
    * [Acra](https://github.com/cossacklabs/acra) — database security suite with SQL firewall and IDS;
    * [Hermes](https://github.com/cossacklabs/hermes-core) — end-to-end encryption engine for data collaboration (mobile, web, infrastructures);
-* [Consultancy](https://www.cossacklabs.com/dgap/) — we work as external security engineering team, helping you to build a cryptography-based security foundation in your apps (covering regulations and real-world risks);
-* [Training](https://training.cossacklabs.com) — secure software development training for developers, architects, managers; we teach how to build, not how to crack.
 
 Enjoy! 🔒
 
