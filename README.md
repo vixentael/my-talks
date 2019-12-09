@@ -24,13 +24,46 @@ In 2019 I am focusing on defensive security topics that are interesting for tech
 
 | What | When | Where | Audience | Topic |
 | --- | --- | --- | --- | --- |
-| [security engineering training by me & JP](https://eventbrite.com/e/security-engineering-from-encryption-to-software-architecture-patterns-tickets-71768283869) | 4 November | Switzerland | security engineers, cryptographers | security engineering & architecture |
-| [BlackAlps](https://blackalps.ch/ba-19/index.php) | 7-8 November | Switzerland | security engineers, cryptographers | Maintaining Cryptographic Library For 11 Languages: Fun Stories And Epic Bugs |
-| [QCon SF](http://qconsf.com) | 11-15 November | SF, USA | senior engineers, architects | [track host of security track](https://qconsf.com/sf2019/track/trust-safety-security) |
+| [QCon London](https://qconlondon.com/london2020/track/scaling-security-device-cloud) | 2-4 March | London | senior engineers, architects | [track host of security track](https://qconlondon.com/london2020/track/scaling-security-device-cloud) |
 
 ---------------------
 
 # 2019
+
+## Security track host at QCon SF
+
+[Check it out](https://qconsf.com/sf2019/track/trust-safety-security): topics include security architecture, security engineering, cryptography, organizational security.
+
+
+## Maintaining cryptographic library for 12 languages
+
+\#security \#software-architecture \#cryptography
+
+[slides](https://speakerdeck.com/vixentael/maintaining-cryptographic-library-for-12-languages) | [video](https://www.youtube.com/watch?v=TgzIYIGDlzs&feature=youtu.be)|
+---- | --- |
+
+This talk is useful for people that believe that perfect crypto lib is a C lib with 1-page readme :)
+
+Maintaining cross-platform cryptographic library is a journey full of unexpected bugs, language-specific hacks, difficult decisions and endless struggle to make developer-facing APIs easy-to-use and hard-to-misuse.
+
+How to simplify complex crypto concepts into simple "encrypt(msg, key)" and "decrypt(data, key)" functions? How to provide unified API for 11 languages, when some of them are strongly-typed and another one is javascript? Secure by default: what design choices should be made to protect from misuse. Multi-platformness: how to make sure that message encrypted using Ruby on x64 Ubuntu 18.04 will be [successfully] decrypted on iOS12 on iPhone armv7s? Testing wildness: static analyzers, fuzzing, unit tests, integration tests. Docs: developers copy-paste from readme anyway, how to make sure that they copy-paste correct things.
+
+I'll describe the 4yrs experience on maintaining multi-platform open source library Themis: from API design to language-specific hacks.
+
+**Presented at:**
+
+- [BlackAlps](https://blackalps.ch/ba-19/index.php)<br/>
+Yverdon-les-Bains, Switzerland, 7-8 November 2019
+
+
+## [Training] Security engineering: from encryption to software architecture patterns
+
+Public training on security and cryptography engineering, conducted jointly with Jean-Philippe Aumasson in Lausanne, Switzerland, on Nov 4. Training aimed on software engineers and solution architects that work on distributed applications and security-related features. 
+
+[Details about content](https://www.eventbrite.com/e/security-engineering-from-encryption-to-software-architecture-patterns-tickets-71768283869#).
+
+Interested in conducting similar training for your team? [Email me](mailto:vixentael@gmail.com).
+
 
 ## 10 lines of encryption, 1500 lines of key management
 
