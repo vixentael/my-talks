@@ -69,7 +69,7 @@ Interested in conducting similar training for your team? [Email me](mailto:vixen
 
 \#mobile \#iosdev \#encryption \#e2ee \#Bear
 
-[slides](https://speakerdeck.com/vixentael/10-lines-of-encryption-1500-lines-of-key-management) | [blogpost](https://www.cossacklabs.com/blog/end-to-end-encryption-in-bear-app.html) | [video(ru)](https://www.youtube.com/watch?v=AHQi6wKfvmQ) | video eng coming soon |
+[slides](https://speakerdeck.com/vixentael/10-lines-of-encryption-1500-lines-of-key-management) | [blogpost](https://www.cossacklabs.com/blog/end-to-end-encryption-in-bear-app.html) | [video (ru)](https://www.youtube.com/watch?v=AHQi6wKfvmQ) | [video (eng)](https://youtu.be/cp06I49Cv50)|
 ---- | --- | --- |  --- |
 
 The real case about one large note taking the app, that decided to implement convenient note encryption and note locking for their existing user base. But finding a balance between usability, security and mobile platforms' restrictions is complicated.
