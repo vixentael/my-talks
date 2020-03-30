@@ -15,18 +15,27 @@ Enjoy! 🔒
 
 ---------------------
 
-# Conferences coming soon
+# Conferences coming soon 
+_(will the world ever be the same?)_
 
-In 2019 I am focusing on defensive security topics that are interesting for tech leads, CTO, solution architects. Security design and engineering, end-to-end encryption cases for non-messaging apps.
+In 2020 I am focusing on ~~washing hands~~ defensive security topics that are interesting for tech leads, CTO, solution architects. Security design and engineering, end-to-end encryption cases for non-messaging apps.
 
 [Email me](mailto:vixentael@gmail.com) if you want to invite me to speak at your conference :)
 
 
 | What | When | Where | Audience | Topic |
 | --- | --- | --- | --- | --- |
-| [QCon London](https://qconlondon.com/london2020/track/scaling-security-device-cloud) | 2-4 March | London | senior engineers, architects | [track host of security track](https://qconlondon.com/london2020/track/scaling-security-device-cloud) |
+| [London Crypto Day](https://londoncryptoday.github.io/2020/) | Fall | London | cybersec crowd | funny things about end-to-end encryption |
+| [NoNameCon](https://www.nonamecon.org/) | October or November | Kyiv | cybersec crowd | [program committee, co-org](https://www.nonamecon.org/) |
 
 ---------------------
+
+
+# 2020
+
+## Security track host at QCon London
+
+[Check it out](https://qconlondon.com/london2020/track/scaling-security-device-cloud): topics include security risk management, balancing security and performance, SSDLC, devsecops and post-quatum crypto.
 
 # 2019
 
