@@ -2,9 +2,9 @@ A list of my talks about security engineering, applied cryptography, security us
 
 <p><img src="pics/anastasiia-conf-2019.JPG" alt="vixentael" width="250" height="250" align="left">
 
-I have a wide software engineering background, now I work as a product engineer at cryptographic solutions company [Cossack Labs](https://cossacklabs.com). We provide developers with tools for protection of sensitive data in apps and infrastructures, ranging from SaaS services and mobile apps to critical infrastructure / power grid operators and SCADA networks.</p>
+I have a wide software engineering background, now I work on products and solutions at cryptographic solutions company [Cossack Labs](https://cossacklabs.com). We provide developers with tools for protection of sensitive data in apps and infrastructures, ranging from SaaS services and mobile apps to critical infrastructure / power grid operators and SCADA networks.</p>
 
-Aside from solutions, we do provide [advisory and in-depth application security consulting](https://www.cossacklabs.com/services/overview/), assisting developments on various stages of development with security review and improvement advice. Also me & my team conduct secure software development [training](https://training.cossacklabs.com) for senior developers, architects and product managers.
+Aside from solutions, we do provide [advisory and in-depth application security consulting](https://www.cossacklabs.com/services/overview/), assisting developments on various stages of development with security review and improvement advice. Also me & my team conduct [secure software development training](https://training.cossacklabs.com) for senior developers, architects and product managers.
 <br/><br/>
 * Open source tools:
    * [Themis](https://github.com/cossacklabs/themis) — the crypto library for storage and messaging in mobile, desktop, and web apps;
@@ -18,28 +18,70 @@ Enjoy! 🔒
 # Conferences coming soon 
 _(will the world ever be the same?)_
 
-In 2020 I am focusing on ~~washing hands~~ defensive security topics that are interesting for tech leads, CTO, solution architects. Security design and engineering, end-to-end encryption cases for non-messaging apps.
+In 2020 I am focusing on ~~washing hands~~ defensive security topics that are interesting for tech leads, CTO, solution architects. Security design and engineering, end-to-end encryption for distributed apps.
 
 [Email me](mailto:vixentael@gmail.com) if you want to invite me to speak at your conference :)
 
 
 | What | When | Where | Audience | Topic |
 | --- | --- | --- | --- | --- |
-| [London Crypto Day](https://londoncryptoday.github.io/2020/) | Fall | London | cybersec crowd | funny things about end-to-end encryption |
-| [NoNameCon](https://www.nonamecon.org/) | October or November | Kyiv | cybersec crowd | [program committee, co-org](https://www.nonamecon.org/) |
+| [London Crypto Day](https://londoncryptoday.github.io/2020/) | ? | online? | cybersec crowd | funny things about end-to-end encryption |
+| [NoNameCon](https://www.nonamecon.org/) | September 3-4 | online | cybersec crowd | program committee, co-org |
+| [QCon SF](https://qconsf.com/schedule/sf2020/tabular) | November 16-18 | online | software developers | program committee, track host |
 
 ---------------------
 
 
 # 2020
 
+## Crypto AMA with me, Ruslan Kiyanchuk and Mark Carney
+
+[video](https://www.youtube.com/watch?v=aG4w1ZetzAA&feature=youtu.be&t=4122)|
+---- |
+
+We're speaking about cryptography and answer questions:
+
+- what is our favourite cipher and why it's base64
+- is crypto a life-style?
+- is it okay to be into crypto without having crypto background
+- how to select proper TLS suite
+- post-quantum crypto: should we care?
+- crypto-coding mistakes we've seen
+- regulations, e2ee, lattice, and all the things
+
+**Presented at:**
+
+- [OPCDE](https://www.opcde.com/)</br> 
+online, 29 July 2020
+
+
+## Use Cryptography; Don’t Learn It
+
+\#security \#crypto
+
+[video](https://www.youtube.com/watch?v=3JWkHaxXbKo)|
+---- |
+
+
+We’ll talk about “boring crypto”: why developers shouldn’t spend time learning all the details of crypto-algorithms (or invent new ones). How to avoid typical crypto-mistakes when all you need is to protect data at rest or in motion. There are enough ready-to-use cryptographic libraries and tools for everyone.
+
+**Presented at:**
+
+- [OWASP Chapters All Day](https://owasp.org/www-community/pages/social/chapters_all_day/speakers/)</br> 
+online, 7 June 2020
+
+
+
 ## Security track host at QCon London
 
 [Check it out](https://qconlondon.com/london2020/track/scaling-security-device-cloud): topics include security risk management, balancing security and performance, SSDLC, devsecops and post-quatum crypto.
 
+
 # 2019
 
 ## Security track host at QCon SF
+
+\#trackhost
 
 [Check it out](https://qconsf.com/sf2019/track/trust-safety-security): topics include security architecture, security engineering, cryptography, organizational security.
 
