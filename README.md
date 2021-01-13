@@ -18,21 +18,45 @@ Enjoy! 🔒
 # Conferences coming soon 
 _(will the world ever be the same?)_
 
-In 2020 I am focusing on ~~washing hands~~ defensive security topics that are interesting for tech leads, CTO, solution architects. Security design and engineering, end-to-end encryption for distributed apps.
+In 2021 I am focusing on ~~washing hands~~ defensive security topics that are interesting for tech leads, CTO, solution architects. Security design and engineering, end-to-end encryption for distributed apps.
 
 [Email me](mailto:vixentael@gmail.com) if you want to invite me to speak at your conference :)
-
-
-| What | When | Where | Audience | Topic |
-| --- | --- | --- | --- | --- |
-| [London Crypto Day](https://londoncryptoday.github.io/2020/) | ? | online? | cybersec crowd | funny things about end-to-end encryption |
-| [NoNameCon](https://www.nonamecon.org/) | September 3-4 | online | cybersec crowd | program committee, co-org |
-| [QCon SF](https://qconsf.com/schedule/sf2020/tabular) | November 16-18 | online | software developers | program committee, track host |
 
 ---------------------
 
 
 # 2020
+
+## Mobile app security roundtable with Anastasiia Voitova, Julia Potapenko and Julia Vashchenko
+
+[video](https://www.youtube.com/watch?v=M6VihvXUG88&feature=emb_title)|
+---- |
+
+We're speaking about mobile app security, introduce security.plist, discuss security-related cases in developers life.
+
+- [Swift Heroes](https://swiftheroes.com/2020/)</br> 
+online, 1 & 2 october 2020
+
+
+## Security track host at QCon Plus
+
+\#trackhost
+
+[Check Talks and Program](https://plus.qconferences.com/plus2020/track/security): topics include OSINT, security bias, security in a time of insecurity.
+
+- [QCon Plus](https://plus.qconferences.com/)</br> 
+online, november 2020
+
+
+## Program committee chair at NoNameCon 2020
+
+\#trackhost
+
+[Check Youtube Talks](https://www.youtube.com/watch?v=fz7qrRQCozw&list=PL8w7siRt_O0trtfExUJxexaw2-BF70Hw7): topics include PQ cryptography, security engineering, privilege escalation, IoT hacking, country-wide cybersecurity, interview with Bruce Schneier.
+
+- [NoNameCon](https://nonamecon.org/)</br> 
+online, september 2020
+
 
 ## Crypto AMA with me, Ruslan Kiyanchuk and Mark Carney
 
